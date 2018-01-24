@@ -16,11 +16,11 @@ Simple password manager GUI written in C# (with Basic Encryption), intended as a
      - only searches **Password** when "Show Passwords" is checked
 2. **Cell Entry Modification** with confirmation
      - Select the cell you want to edit, and click **"Edit Cell"** from the **Options** menu at the bottom
-     - Changes **must** be confirmed by pressing enter (user will be prompted if they attemp to leave the cell without pressing enter)
+     - Changes **must** be confirmed by pressing enter (user will be prompted if they attempt to leave the cell without pressing enter)
      - Cells do not require any specific format, but must not be blank
 3. **Add New Entries**, or **Delete** old ones
      - Select **"Add New+"** from the **options** menu, a new row will be added
-     - Changes **must** be confirmed by pressing enter (user will be prompted if they attemp to leave the each cell without pressing enter)
+     - Changes **must** be confirmed by pressing enter (user will be prompted if they attempt to leave the each cell without pressing enter)
      - Cells do not require any specific format, but must not be blank
 4. **Hover Password** and **Show all passwords**
      - hover the mouse pointer over a password to *peak* at it for a short time, or show all passwords if needed
