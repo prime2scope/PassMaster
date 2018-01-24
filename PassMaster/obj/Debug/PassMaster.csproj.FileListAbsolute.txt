@@ -1,0 +1,10 @@
+D:\CodeProjects\PassMaster\RENAME\Assign6_EC\PassMaster\bin\Debug\PassMaster.exe.config
+D:\CodeProjects\PassMaster\RENAME\Assign6_EC\PassMaster\bin\Debug\PassMaster.exe
+D:\CodeProjects\PassMaster\RENAME\Assign6_EC\PassMaster\bin\Debug\PassMaster.pdb
+D:\CodeProjects\PassMaster\RENAME\Assign6_EC\PassMaster\obj\Debug\PassMaster.PassMasterForm.resources
+D:\CodeProjects\PassMaster\RENAME\Assign6_EC\PassMaster\obj\Debug\PassMaster.Properties.Resources.resources
+D:\CodeProjects\PassMaster\RENAME\Assign6_EC\PassMaster\obj\Debug\PassMaster.csproj.GenerateResource.Cache
+D:\CodeProjects\PassMaster\RENAME\Assign6_EC\PassMaster\obj\Debug\PassMaster.csproj.CoreCompileInputs.cache
+D:\CodeProjects\PassMaster\RENAME\Assign6_EC\PassMaster\obj\Debug\PassMaster.exe
+D:\CodeProjects\PassMaster\RENAME\Assign6_EC\PassMaster\obj\Debug\PassMaster.pdb
+D:\CodeProjects\PassMaster\RENAME\Assign6_EC\PassMaster\obj\Debug\PassMaster.csprojResolveAssemblyReference.cache
