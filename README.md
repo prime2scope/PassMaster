@@ -4,7 +4,7 @@ Simple password manager GUI written in C# (with Basic Encryption), intended as a
 **Master Password:**  admin
 
 >***Warning!*** 
->This program is meant as an **example** and should not be used as anything else without appropriate modification. (see **Current Issues** below)
+>This program is meant as an **example** and should not be used as anything else - without appropriate modification. (see **Current Issues** below)
 
 ### Screenshot
 ![](https://i.imgur.com/aBiK2GX.png)
